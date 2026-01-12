@@ -7,7 +7,7 @@ An AI-driven system developed to automate and enhance the resolution of customer
 This project was developed as part of an internship submission to demonstrate practical skills in Artificial Intelligence and Python development.The system simulates a real-world customer support environment where incoming tickets are automatically analyzed, categorized, and matched with relevant knowledge base articles. The goal is to reduce manual effort, improve resolution speed, and enhance overall support efficiency.
 
 
-🎯 Problem Statement
+## 🎯 Problem Statement
 Customer support teams often face challenges such as:
 - Manual ticket classification
 - Time-consuming search for relevant solutions
@@ -16,7 +16,7 @@ Customer support teams often face challenges such as:
 
 This project addresses these challenges using AI-based automation.
 
-💡 Solution Approach
+## 💡 Solution Approach
 The AI-Powered Knowledge Engine:
 1. Analyzes support ticket text using NLP techniques
 2. Categorizes and tags tickets automatically
@@ -25,7 +25,7 @@ The AI-Powered Knowledge Engine:
 5. Identifies missing or insufficient documentation
 6. Provides optional Slack notifications for quick response
 
-✨ Key Features
+## ✨ Key Features
 - 🤖 AI-based ticket analysis  
 - 🏷️ Automatic ticket categorization & tagging  
 - 📚 Knowledge base article recommendations  
@@ -34,7 +34,7 @@ The AI-Powered Knowledge Engine:
 - 💬 Slack integration for real-time notifications  
 - 🧩 Modular and extensible architecture  
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 - Programming Language: Python  
 - AI: Large Language Models (GPT / LLaMA via LangChain / Ollama)
 - Data Processing: Pandas, CSV
@@ -68,7 +68,7 @@ AI-Powered-Knowledge-Engine-for-Smart-Support-Ticket-Resolution/
 4. Install dependencies:
    pip install -r requirements.txt
 
-▶️ Execution
+#▶️ Execution
 Run the project using:
   '''bash
   streamlit run project.py
@@ -83,13 +83,12 @@ Execution Flow
 4. Recommendations are generated
 5. Output is displayed or sent via Slack
 
-📊 Dataset Details
+## 📊 Dataset Details
 knowledge_base_sample.csv
   * Contains sample support articles
   * Used to simulate real-world knowledge base matching
   * Easily replaceable with custom datasets
 
-🧠 System Architecture (High-Level)
 
 ## 🧠 System Architecture
 
@@ -98,13 +97,13 @@ knowledge_base_sample.csv
 </p>
 
 
-🔄 Agile & Internship Context
+## 🔄 Agile & Internship Context
 1. Methodology: Agile (Scrum)
 2. Internship Program: Infosys Springboard 6.0
 3. Development Approach: Iterative feature development across sprints
 4. Focus: Real-world AI application and integration
 
-📈 Learning Outcomes
+## 📈 Learning Outcomes
 Through this project, I gained hands-on experience in:
 * Applying AI and NLP to real-world problems
 * Working with Large Language Models
@@ -112,18 +111,17 @@ Through this project, I gained hands-on experience in:
 * Integrating third-party APIs
 * Designing scalable support automation systems
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 * Web-based user interface
 * Advanced analytics dashboard
 * Multi-language ticket support
 * Database-backed storage
 * Model fine-tuning for improved accuracy
 
-📜 License
-
+## 📜 License
 This project is licensed under the MIT License.
 
-👩‍💻 Author
+## 👩‍💻 Author
 Siri Manvitha
 Internship Project Submission
 
