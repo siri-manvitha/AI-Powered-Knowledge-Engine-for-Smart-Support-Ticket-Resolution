@@ -97,8 +97,6 @@ knowledge_base_sample.csv
   <img src="system_architecture.png" width="750">
 </p>
 
-![System Architecture](system_architecture.png)
-
 
 🔄 Agile & Internship Context
 1. Methodology: Agile (Scrum)
