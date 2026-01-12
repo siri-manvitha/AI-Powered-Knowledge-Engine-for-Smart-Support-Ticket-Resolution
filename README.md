@@ -93,6 +93,10 @@ knowledge_base_sample.csv
 
 ## 🧠 System Architecture
 
+<p align="center">
+  <img src="system_architecture.png" width="750">
+</p>
+
 ![System Architecture](system_architecture.png)
 
 
