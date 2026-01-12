@@ -41,7 +41,7 @@ The AI-Powered Knowledge Engine:
 - APIs: Google Sheets API, Slack API  
 - Tools: Virtual Environment (venv), GitHub  
 
-📁 Project Structure
+## 📁 Project Structure
 
 AI-Powered-Knowledge-Engine-for-Smart-Support-Ticket-Resolution/
 │
