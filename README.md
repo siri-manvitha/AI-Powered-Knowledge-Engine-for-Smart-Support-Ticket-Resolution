@@ -68,7 +68,7 @@ AI-Powered-Knowledge-Engine-for-Smart-Support-Ticket-Resolution/
 4. Install dependencies:
    pip install -r requirements.txt
 
-#▶️ Execution
+## ▶️ Execution
 Run the project using:
   '''bash
   streamlit run project.py
